@@ -2,4 +2,5 @@
 just another repository-02
 
 i am YK
-i am here to learn python course
+
+testing on going-02
